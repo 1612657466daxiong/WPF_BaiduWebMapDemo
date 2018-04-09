@@ -1,0 +1,3 @@
+# WPF_BaiduWebMapDemo
+基于.Net FrameWork，C＃平台下WPF项目对于百度地图的使用，使用Webbrowser控件调用网页地图
+使用百度的网页API进行百度地图开发，生成百度地图的HTML文件，使用WPF控件加载HTML文件，并且调用JS实现API调用
