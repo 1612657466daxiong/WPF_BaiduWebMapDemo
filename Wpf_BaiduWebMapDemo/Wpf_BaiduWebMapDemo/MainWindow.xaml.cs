@@ -23,6 +23,10 @@ namespace Wpf_BaiduWebMapDemo
         public MainWindow()
         {
             InitializeComponent();
+            string szTmp = "pack://siteoforigin:,,,/Html/map.html";
+            //string szTmp = "../Html/map.html";
+
+            mWebbrowser.Navigate(szTmp);
         }
     }
 }

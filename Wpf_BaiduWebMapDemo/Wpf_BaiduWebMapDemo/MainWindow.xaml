@@ -10,7 +10,9 @@
         WindowStyle="None"
         Height="800" Width="1280">
     <Grid>
-        <WebBrowser Width="{Binding ElementName=Mianwindow, Path=Width}"
+        <WebBrowser 
+            Name="mWebbrowser"
+            Width="{Binding ElementName=Mianwindow, Path=Width}"
                     Height="{Binding ElementName=Mianwindow,Path=ActualHeight}">
             
         </WebBrowser>
