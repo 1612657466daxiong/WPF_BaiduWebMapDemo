@@ -28,5 +28,11 @@ namespace Wpf_BaiduWebMapDemo
 
             mWebbrowser.Navigate(szTmp);
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            PieChartWindow pieChartWindow = new PieChartWindow();
+            pieChartWindow.Show();
+        }
     }
 }

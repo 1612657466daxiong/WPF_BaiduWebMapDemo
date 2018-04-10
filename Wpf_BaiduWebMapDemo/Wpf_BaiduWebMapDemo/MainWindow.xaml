@@ -5,16 +5,25 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Wpf_BaiduWebMapDemo"
         mc:Ignorable="d"
-        ResizeMode="NoResize"
+ 
         Name="Mianwindow"
-        WindowStyle="None"
+     
         Height="800" Width="1280">
-    <Grid>
+    <StackPanel Orientation="Vertical">
+        <Button Panel.ZIndex="1"
+                Canvas.Top="0"
+                Content="自定义饼状图-带指向折线"
+                Height="50"
+                Width="Auto"
+                FontSize="20"
+                Click="Button_Click"></Button>
         <WebBrowser 
+            Panel.ZIndex="0"
             Name="mWebbrowser"
             Width="{Binding ElementName=Mianwindow, Path=Width}"
                     Height="{Binding ElementName=Mianwindow,Path=ActualHeight}">
             
         </WebBrowser>
-    </Grid>
+     
+    </StackPanel>
 </Window>

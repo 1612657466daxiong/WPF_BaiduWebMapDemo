@@ -1,7 +1,6 @@
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\bin\Debug\Wpf_BaiduWebMapDemo.exe.config
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\bin\Debug\Wpf_BaiduWebMapDemo.exe
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\bin\Debug\Wpf_BaiduWebMapDemo.pdb
-D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\Wpf_BaiduWebMapDemo.csprojResolveAssemblyReference.cache
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\MainWindow.g.cs
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\App.g.cs
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\Wpf_BaiduWebMapDemo_MarkupCompile.cache
@@ -13,3 +12,7 @@ D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\Wpf_
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\Wpf_BaiduWebMapDemo.csproj.CoreCompileInputs.cache
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\Wpf_BaiduWebMapDemo.exe
 D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\Wpf_BaiduWebMapDemo.pdb
+D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\PieChartWindow.g.cs
+D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\WPFkongjian\WpfMapdemo\Wpf_BaiduWebMapDemo\Wpf_BaiduWebMapDemo\obj\Debug\PieChartWindow.baml
